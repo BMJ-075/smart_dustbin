@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name Crystals)(type KiCad)(uri "F:/affu rgpv/LIB/Crystals.pretty-master")(options "")(descr ""))
+  (lib (name part_management-master)(type KiCad)(uri "F:/affu rgpv/LIB/part_management-master")(options "")(descr ""))
+  (lib (name Connector_BarrelJack)(type KiCad)(uri "F:/affu rgpv/LIB/Connector_BarrelJack.3dshapes")(options "")(descr ""))
+  (lib (name SparkFun-KiCad-Libraries-master)(type KiCad)(uri "F:/affu rgpv/LIB/SparkFun-KiCad-Libraries-master")(options "")(descr ""))
+  (lib (name Connectors_Phoenix)(type KiCad)(uri "F:/affu rgpv/LIB/Connectors_Phoenix.pretty-master")(options "")(descr ""))
+)
